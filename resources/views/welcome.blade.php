@@ -230,7 +230,7 @@
     </section>
 
     <footer class="bg-[#f3ebd8] border-t border-[#f9d0ce] py-8 text-center text-xs text-gray-500">
-        <p>&copy; 2026 MulaMula. Dibuat dengan penuh dedikasi menggunakan Laravel & Filament.</p>
+        <p>&copy; 2026 MulaMula. Dibuat dengan penuh dedikasi kasih.</p>
     </footer>
 
 </body>
